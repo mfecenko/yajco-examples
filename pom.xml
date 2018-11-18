@@ -11,6 +11,10 @@
 
     <name>All YAJCo examples</name>
 
+    <properties>
+        <yajco.version>0.5.9</yajco.version>
+    </properties>
+
     <modules>
         <module>yajco-example-gettingStarted</module>
         <module>yajco-example-simpleRobot</module>
